@@ -1,3 +1,5 @@
+# Phi Switching Model 
+
 > Status: Coming soon. Formal derivation and reference publication available on Zenodo.
 
 ## License
