@@ -1,15 +1,16 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata below.“
+message: "If you use this software, please cite it using the metadata below."
 type: software
-title: "Phi Switching Model“
+title: "Phi Switching Model"
 authors:
-- family-names: „Zwirner“
-given-names: "Daniel Ruben“
- orcid: „https://orcid.org/0009-0003-5842-5116"
-repository-code: „https://github.com/Ruben-Zwirner/phi-switching-model"
-identifiers: - type: doi
-value: „10.5281/zenodo.21015821"
-description: "Zenodo archive of the formal derivation and reference publication“
-license: „LicenseRef-PolyForm-Noncommercial-1.0.0"
-license-url: „https://polyformproject.org/licenses/noncommercial/1.0.0/"
-date-released: „June 29, 2026"
+  - family-names: "Zwirner"
+    given-names: "Daniel Ruben"
+    orcid: "https://orcid.org/0009-0003-5842-5116"
+repository-code: "https://github.com/Ruben-Zwirner/phi-switching-model"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21015821"
+    description: "Zenodo archive of the formal derivation and reference publication"
+license: "LicenseRef-PolyForm-Noncommercial-1.0.0"
+license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0/"
+date-released: "2026-06-29"
